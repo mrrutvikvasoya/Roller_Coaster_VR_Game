@@ -19,7 +19,7 @@ This project creates an immersive VR experience featuring a university campus, a
 ### Steps to Run
 1. **Clone the Repository**
    ```sh
-   git clone [repository_link]
+   git clone https://github.com/mrrutvikvasoya/Roller_Coaster_VR_Game.git
    cd [project_folder]
    ```  
 2. **Open in Unity**

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # VR-Compatible Roller Coaster Ride
 
 ## Project Overview

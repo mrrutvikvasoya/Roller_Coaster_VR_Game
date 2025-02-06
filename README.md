@@ -4,6 +4,11 @@
 ## Project Overview
 This project creates an immersive VR experience featuring a university campus, a shooting game, and a roller coaster ride. Developed using **Unity** and optimized for **Meta Quest 2**, it combines exploration, interaction, and physics-based motion for a realistic VR environment.
 
+Check out the demo video below:
+
+[![Roller Coaster VR Game Demo](https://img.youtube.com/vi/OEYSQe4HpW8/maxresdefault.jpg)](https://youtu.be/OEYSQe4HpW8)
+
+
 ## Features
 - **Campus Exploration** – Free-roam VR movement.
 - **Roller Coaster Ride** – Realistic physics-based simulation.

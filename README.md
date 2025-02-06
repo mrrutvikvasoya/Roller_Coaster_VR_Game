@@ -24,13 +24,8 @@ Check out the demo video below:
 
 ### Steps to Run
 1. **Clone the Repository**
-   ```sh
-   git clone https://github.com/mrrutvikvasoya/Roller_Coaster_VR_Game.git
-   cd [project_folder]
-   ```
-2. 1. **Download Assets**
-   - download assets from here " " and make folder name with **Assets** and save that all in Assets folder.
-   
+   from here https://git.oth-aw.de/a85d/arvr
+
 2. **Open in Unity**
    - Launch Unity and open the project folder.
    - **Note:** The **Library** folder is not included here due to large file size. Unity will regenerate it.

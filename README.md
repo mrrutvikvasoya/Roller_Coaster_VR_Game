@@ -8,6 +8,8 @@ Check out the demo video below:
 
 [![Roller Coaster VR Game Demo](https://img.youtube.com/vi/OEYSQe4HpW8/maxresdefault.jpg)](https://youtu.be/OEYSQe4HpW8)
 
+## Download APK file for VR
+https://drive.google.com/file/d/1JgbD-OtWgnTx2ujT6QwgUtjgcYAPYXj1/view?usp=sharing
 
 ## Features
 - **Campus Exploration** – Free-roam VR movement.
